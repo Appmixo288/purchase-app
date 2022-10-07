@@ -224,4 +224,5 @@ pnpm dev --tunnel-url https://tunnel-url:3000
 - [Shopify CLI](https://shopify.dev/apps/tools/cli)
 - [Shopify API Library documentation](https://github.com/Shopify/shopify-api-node/tree/main/docs)
 #   p u r c h a s e - a p p  
+ #   p u r c h a s e - a p p  
  
