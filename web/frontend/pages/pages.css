@@ -1,0 +1,55 @@
+.mb16{
+    margin-bottom: 16px;
+}
+.font16{
+    font-size: 16px;
+}
+.pl5{
+    padding-left: 5px;
+}
+.custom_img{
+    display: flex;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 100%;
+    padding: 16px;
+}
+.cust_img{
+    height: 210px;
+    width: 210px;
+     display: flex; 
+    justify-content: space-around;
+    align-items: center;
+}
+.text_btn_decoration{
+    text-decoration: none;
+}
+.selected_products{
+    display: flex;
+    justify-content: space-between;
+}
+
+.del_div{
+    padding: 10px;
+    width: 35px;
+    height: 35px;
+    background: #fcd9d6;
+    align-items: center;
+    align-content: center;
+    border-radius: 40%;
+    
+}
+.del_div:hover{
+    padding: 6px;
+    background: #f9a19a;
+    color: #922820;
+    border: 1px solid #922820;
+}
+.plan_del_div .Polaris-Icon{
+    padding: 3px;
+}
+.plan_false_div .Polaris-Icon{
+    padding: 1px;
+}
+
