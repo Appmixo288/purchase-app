@@ -1,5 +1,5 @@
 import { APP_STATUS } from "../../../constants/index.js";
-import Shop from "./shop.model.js";
+import Shop from "./model.js";
 
 export const addShopData = async ({ shop, data }) => {
   console.log("addShopData");

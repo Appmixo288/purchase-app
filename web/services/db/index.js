@@ -19,5 +19,5 @@ export const connectDB = () => {
       });
   });
 };
-export * as DBShopServices from "./shop/shop.services.js";
-// export * as DBSessionServices from "./session/session.services.js";
+export * as DBShopServices from "./shop/services.js";
+export * as DBSellPlanGroupsServices from "./sellingplangroups/services.js";
